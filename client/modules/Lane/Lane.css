@@ -1,0 +1,30 @@
+/* Lane styles */
+.Lanes {
+  color: deepskyblue;
+  display: flex;
+}
+
+.Lane {
+  color: deepskyblue;
+  margin: 0 1rem;
+  padding: 10px;
+  background-color: #e2e4e6;
+  border-radius: 5px;
+  width: 250px;
+}
+
+.LaneHeader {
+
+}
+
+.LaneAddNote {
+
+}
+
+.LaneName {
+
+}
+
+.LaneDelete {
+
+}
