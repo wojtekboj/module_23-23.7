@@ -48,7 +48,7 @@ export function updateLaneRequest(lane) {
 export function deleteLane(laneId) {
   return {
     type: DELETE_LANE,
-    laneId
+    laneId,
   };
 }
 
